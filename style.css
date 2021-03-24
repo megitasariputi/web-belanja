@@ -1,0 +1,31 @@
+.navbar{
+	background-color: #8b2f97;
+}
+.d-flex img{
+	margin-right: 20px;
+	margin-top: 20px;
+}
+.skill{
+	margin: auto;
+	width: 50%;
+	margin-top: 50px;
+}
+.form-inline .btn {
+	background-color: #cba1d2;
+}
+.form-inline .btn:hover{
+	background-color: black;
+	color: white;
+}
+.container{
+	margin-top: 50px;
+}
+.row{
+	margin-top: 20px;
+}
+.row .btn{
+	margin-top: 10px;
+}
+.ikon{
+	margin: 20px 50px;
+}
